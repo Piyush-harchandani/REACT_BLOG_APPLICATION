@@ -84,6 +84,11 @@ frontend/
 * `npm run build` – Builds the app for production
 * `npm test` – Runs tests
 
+## License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
+
 
 
 
