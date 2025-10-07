@@ -1,4 +1,4 @@
-Got it! Here's a `README.md` tailored **only for the frontend** of a Blog Application:
+
 
 ````markdown
 # Blog Application - Frontend
